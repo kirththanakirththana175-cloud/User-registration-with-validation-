@@ -115,7 +115,21 @@ Database: MongoDB / MongoDB Atlas
 Security: Bcrypt.js for password hashing
 Validation: Express-Validator
 
+⚙️ How It Works (Flow Overview)
 
+1. User fills registration form → validated on frontend
+
+
+2. Data sent to backend /register endpoint
+
+
+3. Backend validates and hashes password → stores in MongoDB
+
+
+4. On login, backend verifies credentials and redirects to dashboard
+
+
+5. Dashboard displays personalized greeting and logout option
 
 
 📂 Sample API Endpoints
