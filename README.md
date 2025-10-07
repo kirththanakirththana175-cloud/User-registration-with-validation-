@@ -1,11 +1,3 @@
-# User-registration-with-validation-
-Perfect, Keerthana 🌸 — here’s a professional and easy-to-understand README.md for your User Registration with Validation project (frontend + backend + dashboard).
-
-You can put this file in your project root folder (user-registration/README.md).
-
-
----
-
 # 🧑‍💻 User Registration with Validation (Frontend + Backend)
 
 A full-stack web application that allows users to **register, log in, reset passwords, and access a personal dashboard** — built using **HTML, CSS, JavaScript, Node.js, Express, and MongoDB**.
@@ -33,7 +25,7 @@ user-registration │ ├── backend │   ├── server.js │   ├─�
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone the Project
-```bash
+
 git clone https://github.com/yourusername/user-registration.git
 cd user-registration/backend
 
@@ -82,8 +74,6 @@ mongoose.connect('mongodb+srv://<username>:<password>@cluster0.mongodb.net/userD
 
 
 
----
-
 🖥️ Running the Project
 
 1️⃣ Start the Backend
@@ -126,7 +116,7 @@ Security: Bcrypt.js for password hashing
 Validation: Express-Validator
 
 
----
+
 
 📂 Sample API Endpoints
 
@@ -134,36 +124,9 @@ Method	Endpoint	Description
 
 POST	/register	Register new user
 POST	/login	Authenticate user
-GET	/users	Get all registered users (for testing)
-
-
-
----
-
-🪄 Screenshots
-
-(Add screenshots of your Register, Login, and Dashboard pages here)
-
-
----
-
-🤝 Author
-
-👩‍💻 Keerthana Sivaraj
-🎓 Computer Science – 3rd Year
-📍 Tamil Nadu, India
-
-
----
+GET	/users	Get all registered users 
 
 🧾 License
 
 This project is open-source and free to use for educational purposes.
-
-
----
-
----
-
-Would you like me to **add screenshots placeholders** and a short **“How It Works (workflow diagram)”** section to make your README look even more like a professional GitHub project?
 
