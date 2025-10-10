@@ -26,7 +26,7 @@ user-registration │ ├── backend │   ├── server.js │   ├─�
 
 ### 1️⃣ Clone the Project
 
-git clone https://github.com/yourusername/user-registration.git
+gh repo clone kirththanakirththana175-cloud/User-registration-with-validation-
 cd user-registration/backend
 
 2️⃣ Initialize Node.js
